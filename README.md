@@ -1,1 +1,1 @@
-# real-python
+Code samples from real-python blog and other weired places.
